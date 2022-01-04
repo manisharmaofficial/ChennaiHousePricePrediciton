@@ -17,9 +17,9 @@ Train.csv (7109 observations):
 The dataset contains information related to all real estate transactions that have taken place under the ChennaiEstate. The following are the details relating to the columns in the dataset:
 
 
-PRT_ID – The Property Transaction ID assigned by ChennaiEstate 
+PRT_ID – The Property Transaction ID assigned by ChennaiEstate
 AREA – The property in which the real estate is located 
-INT_SQFT – The interior Sq. Ft of the property\
+INT_SQFT – The interior Sq. Ft of the property
 DATE_SALE – The date the property was sold 
 DIST_MAINROAD – The distance of the property to the main road 
 N_BEDROOM – The number of Bedrooms 
